@@ -10,7 +10,7 @@
 - 📫 How to reach me: ...
 -->
 
-## My Projects 📕
+### My Projects 📕
 
 | <center><img src="https://neocde.me/images/project-01.png" height="100px"><h2>SLF App</h2></center> | <center><img src="https://neocde.me/images/project-02.png" height="100px"><h2>RGB Strip</h2></center>  | <center><img src="https://neocde.me/images/project-03.png" height="100px"><h2>Brackets Theme</h2></center> |
 |---|---|---|
