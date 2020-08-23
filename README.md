@@ -3,6 +3,7 @@
 - 💬 I'm Jan aka NeoCode
 - 🌱 I’m currently learning software engineer
 - 🔭 I’m currently working on a standalone WiFi RGB LED strip
+- 🔥 If you want to uncover some badass projects [check out my gold list](https://neocde.me/GoldList/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
