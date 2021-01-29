@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 💬 I'm Jan aka NeoCode
 - 🌱 I’m currently learning software engineer
