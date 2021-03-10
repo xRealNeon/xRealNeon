@@ -36,8 +36,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
-          plugin_projects: yes
-          plugin_projects_limit: 4
+          plugin_lines: yes
           plugin_stars: yes
           plugin_stars_limit: 4
 
