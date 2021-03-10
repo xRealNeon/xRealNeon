@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/xRealNeon?template=classic&introduction=1&isocalendar=1&languages=1&activity=1&gists=1&followup=1&projects=1&stars=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&introduction.title=true&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&projects.limit=4&projects.descriptions=false&stars.limit=4&config.timezone=Europe%2FBerlin)
+![Metrics](https://raw.githubusercontent.com/xRealNeon/xRealNeon/master/github-metrics.svg)
 
 <!-- Old version
 ## Hi there 👋
