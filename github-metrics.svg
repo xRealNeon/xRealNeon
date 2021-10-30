@@ -1356,11 +1356,11 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -2668,6 +2668,11 @@ Fullstack Developer from Germany
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2687,7 +2692,7 @@ Fullstack Developer from Germany
                                     </svg>
                                     <div class="name">
                                         <span>athityakumar/colorls</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2733,7 +2738,7 @@ Fullstack Developer from Germany
                                         </svg>
                                         <div class="name">
                                             <span>k4m4/terminals-are-sexy</span>
-                                            <span>starred 15 hours ago</span>
+                                            <span>starred 16 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -2775,7 +2780,7 @@ Fullstack Developer from Germany
                                         </svg>
                                         <div class="name">
                                             <span>antonmedv/fx</span>
-                                            <span>starred 15 hours ago</span>
+                                            <span>starred 16 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -2931,7 +2936,7 @@ Fullstack Developer from Germany
                 </section>
                 <footer>
                     <span>These metrics do not include all private contributions</span>
-                    <span>Last updated 30 Oct 2021, 01:06:57 (timezone Europe/Berlin) with lowlighter/metrics@3.15.0</span>
+                    <span>Last updated 30 Oct 2021, 02:21:50 (timezone Europe/Berlin) with lowlighter/metrics@3.15.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
