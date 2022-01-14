@@ -1512,7 +1512,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>thefederationinfo/the-federation.info</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Statistics hub for the Fediverse</div>
@@ -1565,7 +1565,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>SamR1/FitTrackee</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1621,7 +1621,7 @@ Fullstack Developer from Germany</div>
                                         </svg>
                                         <div class="name">
                                             <span>hmendes00/matrix-js-sdk-e2ee-helpers</span>
-                                            <span>starred 20 hours ago</span>
+                                            <span>starred 21 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">This REPO is intended to help people having a hard time to setup e2ee using matrix-js-sdk.</div>
@@ -1668,7 +1668,7 @@ Fullstack Developer from Germany</div>
                                         </svg>
                                         <div class="name">
                                             <span>mabasic/ulauncher-laravel</span>
-                                            <span>starred 22 hours ago</span>
+                                            <span>starred 23 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">Ulauncher extension for quick access to the Laravel documentation.</div>
@@ -1806,7 +1806,7 @@ Fullstack Developer from Germany</div>
                 </section>
                 <footer>
                     <span>These metrics do not include all private contributions</span>
-                    <span>Last updated 14 Jan 2022, 11:08:50 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 14 Jan 2022, 12:06:35 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
