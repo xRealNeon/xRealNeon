@@ -1481,7 +1481,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>aler9/rtsp-simple-server</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams</div>
@@ -1534,7 +1534,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>berty/berty</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</div>
@@ -1587,7 +1587,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>revenz/Fenrus</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A personal home page for quick access to all your personal apps/sites.</div>
@@ -1767,7 +1767,7 @@ Fullstack Developer from Germany</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Feb 2022, 21:08:03 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 27 Feb 2022, 22:07:19 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
