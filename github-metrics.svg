@@ -1471,7 +1471,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>standardnotes/FileSend</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple, encrypted file sharing. https://filesend.standardnotes.org</div>
@@ -1524,7 +1524,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>Tonejs/Tone.js</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Web Audio framework for making interactive music in the browser.</div>
@@ -1577,7 +1577,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>EsperoTech/yaade</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Yaade is an open-source, self-hosted, collaborative API development environment.</div>
@@ -1757,7 +1757,7 @@ Fullstack Developer from Germany</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Apr 2022, 00:08:28 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 9 Apr 2022, 01:07:57 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
