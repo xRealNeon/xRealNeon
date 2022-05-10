@@ -1467,6 +1467,11 @@ Fullstack Developer from Germany</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1488,7 +1493,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>ericktijerou/koleton</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The easiest library to show skeleton screens in an Android app.</div>
@@ -1541,7 +1546,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>crowdsecurity/crowdsec</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CrowdSec - the open-source and participative IPS able to analyze visitor behavior &amp; provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.</div>
@@ -1594,7 +1599,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>coollabsio/fonts</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A privacy-friendly drop-in replacement for Google Fonts</div>
@@ -1647,7 +1652,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>OpenLauncherTeam/openlauncher</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Customizable and Open Source Launcher for Android</div>
@@ -1774,7 +1779,7 @@ Fullstack Developer from Germany</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 May 2022, 01:08:40 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 10 May 2022, 02:39:32 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
