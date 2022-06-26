@@ -1481,7 +1481,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>nunomaduro/larastan</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚗️ Adds code analysis to Laravel improving developer productivity and code quality.</div>
@@ -1534,7 +1534,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>phpstan/phpstan</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PHP Static Analysis Tool - discover bugs in your code without running it!</div>
@@ -1777,7 +1777,7 @@ Fullstack Developer from Germany</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jun 2022, 22:08:04 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 26 Jun 2022, 23:07:06 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
