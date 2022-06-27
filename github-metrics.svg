@@ -1488,7 +1488,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>React95/React95</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A React components library with Win95 UI</div>
@@ -1541,7 +1541,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>NvChad/NvChad</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms</div>
@@ -1575,7 +1575,7 @@ Fullstack Developer from Germany</div>
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        765
+                                        767
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1594,7 +1594,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>nunomaduro/larastan</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚗️ Adds code analysis to Laravel improving developer productivity and code quality.</div>
@@ -1647,7 +1647,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>phpstan/phpstan</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PHP Static Analysis Tool - discover bugs in your code without running it!</div>
@@ -1774,7 +1774,7 @@ Fullstack Developer from Germany</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jun 2022, 12:09:21 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 27 Jun 2022, 13:08:15 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
