@@ -1503,7 +1503,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>webysther/packagist-mirror</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📦✂️📋📦 Create a mirror of packagist.org metadata for use locally with composer</div>
@@ -1556,7 +1556,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>FiloSottile/mkcert</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple zero-config tool to make locally trusted development certificates with any names you'd like.</div>
@@ -1789,7 +1789,7 @@ Fullstack Developer from Germany</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jun 2022, 12:12:22 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 30 Jun 2022, 13:07:05 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
