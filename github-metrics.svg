@@ -1482,7 +1482,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>muxinc/upchunk</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Uploads Chunks! Takes big files, splits them up, then uploads each one with care (and PUT requests).</div>
@@ -1776,7 +1776,7 @@ Fullstack Developer from Germany</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jul 2022, 23:07:46 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 3 Jul 2022, 00:07:48 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
