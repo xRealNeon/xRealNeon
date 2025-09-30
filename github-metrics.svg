@@ -1493,7 +1493,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>rupadana/filament-api-service</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Filament API Service is a powerful yet simple package that enables automatic API generation for FilamentPHP resources. It eliminates the need for manual route registration and provides built-in support for authentication, authorization, filtering, sorting, and more.</div>
@@ -1546,7 +1546,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>TappNetwork/filament-auditing</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Filament plugin for Laravel Auditing package.</div>
@@ -1593,7 +1593,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>kenepa/resource-lock</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Filament Resource Lock is a Filament plugin that adds resource locking functionality to your site.</div>
@@ -1646,7 +1646,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>Jacobtims/filament-breezy</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Filament plugin for customizable profile page, two factor authentication &amp; Sanctum token management.</div>
@@ -1773,7 +1773,7 @@ Fullstack Developer from Germany</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Sept 2025, 04:16:06 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2025, 05:25:17 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
