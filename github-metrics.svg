@@ -1488,7 +1488,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>cramt/m365-copilot-proxy</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenAI-compatible proxy for Microsoft 365 Copilot — use the Copilot licence you already have as a backend for pi, openclaw and other coding agents. Prompt-emulated tool calling, no extra licence, no MCP.</div>
@@ -1541,7 +1541,7 @@ Fullstack Developer from Germany</div>
                                     </svg>
                                     <div class="name">
                                         <span>chrischall/opencode-copilot-plugin</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use your org's Microsoft 365 Copilot as the model backend for opencode</div>
@@ -1768,7 +1768,7 @@ Fullstack Developer from Germany</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Sept 2026, 22:16:45 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Sept 2026, 01:09:55 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
